@@ -12,3 +12,4 @@ Este repositorio contiene el código fuente de una aplicación web desarrollada 
 
 1. Instala las dependencias: `npm install`.
 2. Inicia la aplicación: `npm start`.
+# 2daentregareact_stremel
